@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "React JS",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
+    image: require("./images/project1.gif"),
     link: "/",
   },
   {
@@ -12,24 +12,24 @@ export const projects = [
     subtitle: "React JS",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "/",
+      image: require("./images/project1.gif"),
+      link: "/",
   },
   {
     title: "My Resto: Restaurant Website",
     subtitle: "JavaScript, CSS, HTML",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "/",
+      image: require("./images/project1.gif"),
+      link: "/",
   },
   {
     title: "Tribute Page for Elon Musk",
     subtitle: "HTML & CSS",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "/",
+      image: require("./images/project1.gif"),
+      link: "/",
   },
 ];
 export const skills = [
