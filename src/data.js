@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "React JS",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: require("./images/project1.gif"),
+    image: require("./images/sell-my-cell.gif"),
     link: "/",
   },
   {
@@ -12,7 +12,7 @@ export const projects = [
     subtitle: "React JS",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: require("./images/project1.gif"),
+      image: require("./images/loading.gif"),
       link: "/",
   },
   {
@@ -20,7 +20,7 @@ export const projects = [
     subtitle: "JavaScript, CSS, HTML",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: require("./images/project1.gif"),
+      image: require("./images/loading.gif"),
       link: "/",
   },
   {
@@ -28,7 +28,7 @@ export const projects = [
     subtitle: "HTML & CSS",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: require("./images/project1.gif"),
+      image: require("./images/loading.gif"),
       link: "/",
   },
 ];
