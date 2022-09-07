@@ -1,5 +1,5 @@
 import React from 'react'
-import coding from "../coding2.jpg"
+import coding from "../images/coding.jpg"
 
 const About = () => {
   return (
