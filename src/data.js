@@ -12,7 +12,7 @@ export const projects = [
     subtitle: "React JS",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: require("./images/loading.gif"),
+      image: require("./images/todo-app.gif"),
       link: "/",
   },
   {
@@ -20,7 +20,7 @@ export const projects = [
     subtitle: "JavaScript, CSS, HTML",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: require("./images/loading.gif"),
+      image: require("./images/my-resto.gif"),
       link: "/",
   },
   {
@@ -28,7 +28,7 @@ export const projects = [
     subtitle: "HTML & CSS",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: require("./images/loading.gif"),
+      image: require("./images/tribute-page.gif"),
       link: "/",
   },
 ];
@@ -36,9 +36,11 @@ export const skills = [
   "React JS",
   "Next JS",
   "Graph QL",
+  "TypeScript",
   "JavaScript",
   "Tailwind CSS",
   "Bootstrap",
   "CSS",
   "HTML",
+  "GitHub"
 ];
